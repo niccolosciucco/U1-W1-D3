@@ -1,0 +1,101 @@
+#idLogo{
+    text-align: center;
+}
+
+#idLogo img{
+    width: 12em;
+}
+
+#hrHeader {
+    height: 1px;
+    background: #dfbc0e;
+    border: 0;
+    margin: 0;
+}
+
+#divParagraph{
+    background-color: #f3f1e7;  
+    padding: 18px 0;            
+}
+
+#pHeader{
+    text-align: center;
+    margin: 0;
+    color: #042b2d;              
+}
+
+#pHeader span{
+    font-weight: bold;
+}
+
+main{
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 5em;
+}
+
+h1{
+    text-align: center;
+    font-size: 2.5vw;
+    font-style: inherit;
+    color: rgba(0, 0, 0, 0.77);
+}
+
+#introduction{
+    font-size: large;
+}
+
+#idFocaccia{
+    width: 100%;
+    border-radius: 2%;
+}
+
+figcaption{
+    text-align: center;
+    margin-top: 0.5em;
+    color: grey;
+}
+
+#reference{
+    border-left: 3px solid #f4a300; 
+    padding: 0.5em;
+}
+
+#reference p{
+    margin: 0;
+    color: rgb(170, 28, 28);
+}
+
+#reference a{
+    margin: 0;
+    color: rgb(16, 117, 88);
+}
+
+#ingredients{
+    margin-top: 5em;
+}
+
+#hrSection{
+    height: 1px;
+    background: #3bbdec;
+
+}
+
+h5{
+    font-size: large;
+    margin-bottom: 5px;
+}
+
+ul{
+    margin-top: 0;
+}
+
+h2{
+    font-weight: 100;
+}
+
+#mainSection {
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: normal;
+}
