@@ -99,3 +99,7 @@ h2{
   font-family: Georgia, "Times New Roman", serif;
   font-style: normal;
 }
+
+figure{
+    margin:0;
+}
